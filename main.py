@@ -15,3 +15,6 @@ def plan(task: str, start_time: datetime.hour, end_time: datetime.hour):
 
 plan(str(input()), input(), input())
 
+
+x = 42
+print(x)
